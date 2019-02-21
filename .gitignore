@@ -1,0 +1,19 @@
+# npm modules
+/node_modules
+
+# `build` folder
+/dist
+
+# npm errors
+npm-debug.log
+
+# for OS X users
+.DS_Store
+
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
